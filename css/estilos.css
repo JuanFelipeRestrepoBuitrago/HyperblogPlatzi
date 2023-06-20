@@ -17,3 +17,19 @@ body {
 #container h1 {
     font-size: 20px;
 }
+
+#head {
+    opacity: 65%;
+    margin: 0;
+    font-size: 1em;
+    padding: 0.5em;
+    font-weight: bold;
+    background-color: bisque;
+    box-shadow: 5px 5px 8px 0px rgba(46,6,46,1);
+}
+
+#head #tagline {
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
