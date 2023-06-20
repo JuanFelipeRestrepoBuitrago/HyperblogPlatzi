@@ -1,1 +1,5 @@
-Hola, Juan Felipe, Yo soy un archivo de prueba, llamado historia.txt
+Esta es la historia de Juan Felipe Restrepo Buitrago
+
+Juan Felipe tiene 19 años y nació en Colombia.
+
+Hoy hablaremos de su historia.
