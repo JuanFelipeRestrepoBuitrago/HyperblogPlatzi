@@ -21,6 +21,7 @@ body {
 }
 
 #head {
+    color: grey;
     opacity: 65%;
     margin: 0;
     font-size: 1em;
@@ -47,8 +48,8 @@ body {
 }
 
 #footer {
-    background-color: #777;
-    color: white;
+    background-color: bisque;
+    color: black;
     text-align: center;
     padding: 0.5em;
 }
